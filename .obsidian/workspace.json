@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69efc0e826d539d5",
+        "id": "e25aa51628b29e22",
         "type": "tabs",
         "children": [
           {
-            "id": "aeba5acf4c1f14d5",
+            "id": "4ae3f2d5df3434d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WEB/PARTE 1/Client-side-again.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Client-side-again"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -169,13 +165,17 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "aeba5acf4c1f14d5",
+  "active": "4ae3f2d5df3434d8",
   "lastOpenFiles": [
+    "WEB/PARTE 2/Scavenger Hunt.md",
+    "WEB/PARTE 2/Cookies.md",
+    "WEB/PARTE 2/GET aHEAD.md",
+    "WEB/PARTE 1/Client-side-again.md",
+    "WEB/PARTE 2",
     "WEB/PARTE 1/where are the robots.md",
     "WEB/PARTE 1/picobrowser.md",
     "WEB/PARTE 1/dont-use-client-side.md",
     "WEB/PARTE 1/logon.md",
-    "WEB/PARTE 1/Client-side-again.md",
     "WEB/PARTE 1/Insp3ct0r.md",
     "GENERAL SKILLS/TAREA 1/binhexa.md",
     "WEB/PARTE 1",
@@ -197,9 +197,6 @@
     "GENERAL SKILLS/PT2/Based.md",
     "GENERAL SKILLS/PT2/useless.md",
     "GENERAL SKILLS/PT2/Magikarp Ground Mission.md",
-    "GENERAL SKILLS/PT2/Tab, Tab, Attack.md",
-    "GENERAL SKILLS/PT2/Wave a flag.md",
-    "GENERAL SKILLS/PT2/strings it.md",
     "GENERAL SKILLS/PT2",
     "GENERAL SKILLS/PT1",
     "GENERAL SKILLS"
