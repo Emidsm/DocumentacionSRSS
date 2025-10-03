@@ -11,10 +11,14 @@
             "id": "4ae3f2d5df3434d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "FORENSICS/PARTE 1/What Lies Within.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "What Lies Within"
             }
           }
         ]
@@ -167,8 +171,20 @@
   },
   "active": "4ae3f2d5df3434d8",
   "lastOpenFiles": [
-    "WEB/PARTE 2/Scavenger Hunt.md",
+    "FORENSICS/PARTE 1/So Meta.md",
+    "FORENSICS/PARTE 1/extensions.md",
+    "FORENSICS/PARTE 1/shark on wire 1.md",
+    "FORENSICS/PARTE 1/Glory of the Garden 1 1 2 1.md",
+    "FORENSICS/PARTE 1/What Lies Within.md",
+    "FORENSICS/PARTE 1/Glory of the Garden.md",
     "WEB/PARTE 2/Cookies.md",
+    "FORENSICS/PARTE 1",
+    "FORENSICS",
+    "WEB/PARTE 3/More SQLi.md",
+    "WEB/PARTE 3/JaWT Scratchpad.md",
+    "WEB/PARTE 3/Irish-Name-Repo 1.md",
+    "WEB/PARTE 3",
+    "WEB/PARTE 2/Scavenger Hunt.md",
     "WEB/PARTE 2/GET aHEAD.md",
     "WEB/PARTE 1/Client-side-again.md",
     "WEB/PARTE 2",
@@ -187,16 +203,7 @@
     "GENERAL SKILLS/TAREA 1/collaborative development.md",
     "GENERAL SKILLS/TAREA 1/blame game.md",
     "GENERAL SKILLS/TAREA 1/time machine.md",
-    "GENERAL SKILLS/TAREA 1/committee issue.md",
-    "GENERAL SKILLS/TAREA 1/special.md",
-    "GENERAL SKILLS/TAREA 1/chrono.md",
-    "GENERAL SKILLS/TAREA 1/ASCII Numbers.md",
-    "GENERAL SKILLS/PT3/Serpentine.md",
-    "GENERAL SKILLS/PT3/PW CRACK 3.md",
     "GENERAL SKILLS/TAREA 1",
-    "GENERAL SKILLS/PT2/Based.md",
-    "GENERAL SKILLS/PT2/useless.md",
-    "GENERAL SKILLS/PT2/Magikarp Ground Mission.md",
     "GENERAL SKILLS/PT2",
     "GENERAL SKILLS/PT1",
     "GENERAL SKILLS"
