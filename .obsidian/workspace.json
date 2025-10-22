@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e25aa51628b29e22",
+        "id": "662e0e91a653be48",
         "type": "tabs",
         "children": [
           {
-            "id": "4ae3f2d5df3434d8",
+            "id": "5f688af4a6834785",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FORENSICS/PARTE 1/What Lies Within.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "What Lies Within"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -169,43 +165,43 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "4ae3f2d5df3434d8",
+  "active": "7b34b10a5bafcf80",
   "lastOpenFiles": [
+    "CRYPTO/PARTE 1/Tapping.md",
+    "CRYPTO/PARTE 1/The numbers.md",
+    "CRYPTO/PARTE 1/la cifra de.md",
+    "CRYPTO/PARTE 1/Easy 1.md",
+    "CRYPTO/PARTE 1/Cesar.md",
+    "CRYPTO/PARTE 1/13.md",
+    "CRYPTO/PARTE 1/interencdec.md",
+    "CRYPTO/PARTE 1/waves over lambda.md",
+    "WEB/TAREA 2/Includes.md",
+    "CRYPTO/PARTE 1",
+    "CRYPTO",
+    "WEB/TAREA 2/SQLiLite.md",
+    "WEB/TAREA 2/Secrets.md",
+    "WEB/TAREA 2/Roboto Sans.md",
+    "WEB/TAREA 2/Power Cookie.md",
+    "WEB/TAREA 2/Inspect HTML.md",
+    "WEB/TAREA 2/Unminify.md",
+    "WEB/TAREA 2/WebDecode.md",
+    "WEB/TAREA 2/Local Authority.md",
+    "WEB/TAREA 2/IntroToBurp.md",
+    "FORENSICS/PARTE 1/What Lies Within.md",
+    "WEB/TAREA 2",
     "FORENSICS/PARTE 1/So Meta.md",
     "FORENSICS/PARTE 1/extensions.md",
     "FORENSICS/PARTE 1/shark on wire 1.md",
     "FORENSICS/PARTE 1/Glory of the Garden 1 1 2 1.md",
-    "FORENSICS/PARTE 1/What Lies Within.md",
     "FORENSICS/PARTE 1/Glory of the Garden.md",
     "WEB/PARTE 2/Cookies.md",
     "FORENSICS/PARTE 1",
     "FORENSICS",
     "WEB/PARTE 3/More SQLi.md",
-    "WEB/PARTE 3/JaWT Scratchpad.md",
-    "WEB/PARTE 3/Irish-Name-Repo 1.md",
     "WEB/PARTE 3",
-    "WEB/PARTE 2/Scavenger Hunt.md",
-    "WEB/PARTE 2/GET aHEAD.md",
-    "WEB/PARTE 1/Client-side-again.md",
     "WEB/PARTE 2",
-    "WEB/PARTE 1/where are the robots.md",
-    "WEB/PARTE 1/picobrowser.md",
-    "WEB/PARTE 1/dont-use-client-side.md",
-    "WEB/PARTE 1/logon.md",
-    "WEB/PARTE 1/Insp3ct0r.md",
-    "GENERAL SKILLS/TAREA 1/binhexa.md",
     "WEB/PARTE 1",
     "WEB",
-    "GENERAL SKILLS/Sin título.md",
-    "GENERAL SKILLS/TAREA 1/permissions 1 1 1.md",
-    "GENERAL SKILLS/TAREA 1/binary search.md",
-    "GENERAL SKILLS/TAREA 1/permissions.md",
-    "GENERAL SKILLS/TAREA 1/collaborative development.md",
-    "GENERAL SKILLS/TAREA 1/blame game.md",
-    "GENERAL SKILLS/TAREA 1/time machine.md",
-    "GENERAL SKILLS/TAREA 1",
-    "GENERAL SKILLS/PT2",
-    "GENERAL SKILLS/PT1",
-    "GENERAL SKILLS"
+    "GENERAL SKILLS/TAREA 1"
   ]
 }
